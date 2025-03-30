@@ -32,4 +32,4 @@ I'm **Yamil**, a **web & mobile developer** focused on crafting high-performance
 ---
 
 ### 📊 GitHub Stats  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N95Ryan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamil-issa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
