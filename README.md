@@ -1,5 +1,4 @@
 ### Hey ! 👋  
-Hey ! 👋  
 I'm **Yamil**, a passionate **developer** who loves building cool stuff and constantly learning new things. 🚀    
 
 ---
